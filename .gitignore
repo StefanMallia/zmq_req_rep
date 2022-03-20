@@ -1,0 +1,16 @@
+request/Cargo.lock
+request/target
+request/open_project.sh
+
+reply/Cargo.lock
+reply/target
+reply/open_project.sh
+
+req_rep_broker_test/message_bus/Cargo.lock
+req_rep_broker_test/message_bus/target
+
+req_rep_broker_test/reply_app/Cargo.lock
+req_rep_broker_test/reply_app/target
+
+req_rep_broker_test/request_app/Cargo.lock
+req_rep_broker_test/request_app/target
